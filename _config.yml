@@ -4,6 +4,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-
+author:
+  name: "John Smith"
 minima:
   show_excerpts: true
