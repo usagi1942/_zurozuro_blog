@@ -1,0 +1,6 @@
+title: Fun0 Logbook
+description: 聯絡方法係不明既
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
